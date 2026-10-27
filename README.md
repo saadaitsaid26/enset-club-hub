@@ -1,4 +1,4 @@
-# Club Management System (PP-GestionDesClubes)
+# Club Hub
 
 A full-stack club management platform for schools/universities: manage clubs, announcements, events & activities, room (salle) reservations, material reservations, and users — with role-based access (admin, club manager, member).
 
